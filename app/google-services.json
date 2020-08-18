@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662605045360",
+    "firebase_url": "https://my5plan.firebaseio.com",
+    "project_id": "my5plan",
+    "storage_bucket": "my5plan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662605045360:android:b1475c9cd75ee184611eb5",
+        "android_client_info": {
+          "package_name": "com.doodle.my5plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662605045360-6l4qb88egq9h2qp3816jkt5bh99nd0ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkCVp5SngmMYJpAHAmXnwYR5-fkHRsDaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662605045360-6l4qb88egq9h2qp3816jkt5bh99nd0ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
